@@ -3,7 +3,62 @@
 }
 
 .col-md-4 {
-  background-image: url("file:///Users/Guest/Desktop/flashcards/img/flash1.jpg");
+  background-image: url("file:///Users/Guest/Desktop/flashcard-site/img/flash1.jpg");
+  margin: 15px;
+  border: 2px solid red;
+  height: 175px;
+  width: 350px;
+}
+
+
+#javascript-hide {
+  display: none;
+  background-image: url("file:///Users/Guest/Desktop/flashcard-site/img/flash1.jpg");
+  margin: 15px;
+  border: 2px solid red;
+  height: 175px;
+  width: 350px;
+}
+
+#operators-hide {
+  display: none;
+  background-image: url("file:///Users/Guest/Desktop/flashcard-site/img/flash1.jpg");
+  margin: 15px;
+  border: 2px solid red;
+  height: 175px;
+  width: 350px;
+}
+
+#variables-hide {
+  display: none;
+  background-image: url("file:///Users/Guest/Desktop/flashcard-site/img/flash1.jpg");
+  margin: 15px;
+  border: 2px solid red;
+  height: 175px;
+  width: 350px;
+}
+
+#vnc-hide {
+  display: none;
+  background-image: url("file:///Users/Guest/Desktop/flashcard-site/img/flash1.jpg");
+  margin: 15px;
+  border: 2px solid red;
+  height: 175px;
+  width: 350px;
+}
+
+#functions-hide {
+  display: none;
+  background-image: url("file:///Users/Guest/Desktop/flashcard-site/img/flash1.jpg");
+  margin: 15px;
+  border: 2px solid red;
+  height: 175px;
+  width: 350px;
+}
+
+#methods-hide {
+  display: none;
+  background-image: url("file:///Users/Guest/Desktop/flashcard-site/img/flash1.jpg");
   margin: 15px;
   border: 2px solid red;
   height: 175px;
