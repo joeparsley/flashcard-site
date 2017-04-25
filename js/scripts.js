@@ -24,6 +24,20 @@ $("#methods-show, #methods-hide").click (function() {
       $("#methods-show").toggle();
       $("#methods-hide").toggle();
   });
+  /* TOGGLE-ROW */
+
+  $("").click (function() {
+        $("").toggle();
+        $("").toggle();
+    });
+  $("").click (function() {
+        $("").toggle();
+        $("").toggle();
+    });
+  $("").click (function() {
+        $("").toggle();
+        $("#methods-hide").toggle();
+    });
 });
 
 
