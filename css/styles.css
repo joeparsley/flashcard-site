@@ -1,0 +1,11 @@
+* {
+  text-align: center;
+}
+
+.col-md-4 {
+  background-image: url("file:///Users/Guest/Desktop/flashcards/img/flash1.jpg");
+  margin: 15px;
+  border: 2px solid red;
+  height: 175px;
+  width: 350px;
+}
