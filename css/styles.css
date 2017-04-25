@@ -1,5 +1,22 @@
 * {
   text-align: center;
+    font-family: 'Amatic SC', cursive;
+}
+ p {
+  font-size: 26px;
+}
+body {
+  background-image: url("http://www.shopgratitudesgifts.com/wp-content/uploads/2016/08/General-Notebook-Paper-Background-For-Word-Template-Examples.jpg");
+}
+.jumbotron {
+  margin-top: 40px;
+  font-size: 50px;
+  color: black;
+  font-family: 'Amatic SC', cursive;
+  background-color: white;
+}
+.jumbotron h1 {
+  font-size: 100px;
 }
 
 .col-md-4 {
