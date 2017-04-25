@@ -10,7 +10,7 @@
   width: 350px;
 }
 
-
+/*WORKING CSS*/
 
 #javascript-hide {
   display: none;
@@ -65,3 +65,59 @@
   height: 175px;
   width: 350px;
 }
+
+/*EXPERIMENTAL CSS*/
+
+/*#card1-hide {
+  display: none;
+  background-image: url("file:///Users/Guest/Desktop/flashcard-site/img/flash1.jpg");
+  margin: 15px;
+  border: 2px solid red;
+  height: 175px;
+  width: 350px;
+}
+
+#card2-hide {
+  display: none;
+  background-image: url("file:///Users/Guest/Desktop/flashcard-site/img/flash1.jpg");
+  margin: 15px;
+  border: 2px solid red;
+  height: 175px;
+  width: 350px;
+}
+
+#card3-hide {
+  display: none;
+  background-image: url("file:///Users/Guest/Desktop/flashcard-site/img/flash1.jpg");
+  margin: 15px;
+  border: 2px solid red;
+  height: 175px;
+  width: 350px;
+}
+
+#card4-hide {
+  display: none;
+  background-image: url("file:///Users/Guest/Desktop/flashcard-site/img/flash1.jpg");
+  margin: 15px;
+  border: 2px solid red;
+  height: 175px;
+  width: 350px;
+}
+
+#card5-hide {
+  display: none;
+  background-image: url("file:///Users/Guest/Desktop/flashcard-site/img/flash1.jpg");
+  margin: 15px;
+  border: 2px solid red;
+  height: 175px;
+  width: 350px;
+}
+
+#card6-hide {
+  display: none;
+  background-image: url("file:///Users/Guest/Desktop/flashcard-site/img/flash1.jpg");
+  margin: 15px;
+  border: 2px solid red;
+  height: 175px;
+  width: 350px;
+}*/
